@@ -1,2 +1,2 @@
-# Thesis-Master
-Detect bnana and detect color
+# Thesis
+Image Processing
